@@ -21,3 +21,8 @@
 6- Door
 	States: open/closed, locked/unlocked.
 	Behaviors: open door, close, lock, unlock.
+
+
+7- Smartwatch
+	States: battery level, power status, Notifications(unread/read).
+	Behaviors: Set alarms/timers, Display time & date, Change watch faces.
