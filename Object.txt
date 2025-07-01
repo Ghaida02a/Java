@@ -28,4 +28,9 @@
 
 8- Car
 	States: engine status, fuel level, speed, light status, door status.
-	Behaviors: start/stop engine, change gears, refuel, Lock/unlock doors
+	Behaviors: start/stop engine, change gears, refuel, Lock/unlock doors.
+
+9- Refrigerator
+	States: internal temperature, door status, cooling mode, light status.
+	Behaviors: cool, freeze, light turns on/off, Display temperature.
+
