@@ -13,3 +13,7 @@
 4- Printer
 	States: power status, paper status, Ink level, Connection status.
 	Behaviors: Turn on/off, Copy pages, Load or eject paper, connect to a computer/network.
+
+5- Traffic Light
+	States: timer, color
+	Behaviors: change color, Respond to vehicle/pedestrian sensors
