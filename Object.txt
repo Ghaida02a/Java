@@ -58,6 +58,10 @@
 	States: power status, water level, temperature status, Cleaning status.
 	Behaviors: Turn on/off, perform cleaning cycle, adjust brew strength, adjust cup size
 
-15- Clock
+16- Clock
 	States: time, alarm status, sound status.
 	Behaviors: alarm, reset, set/cancel an alarm, Snooze alarm.
+
+17- Router
+	States: power status, connection status, Wi-Fi signal, device count.
+	Behaviors: reboot/reset, connect to the internet, restrict/block devices.
