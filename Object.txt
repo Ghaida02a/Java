@@ -5,3 +5,7 @@
 2- Television
 	States: volume level, power(on/off), channel.
 	Behaviors: play, pause, switch channels, turn on, turn off, adjust volume
+
+3- Mobile Phone
+	States:  power status (on, off, restarting), battery level, screen status, Ringer mode(silent, vibrate, loud)
+	Behaviors: power (on/off), restart, charge battery, Open/close apps
