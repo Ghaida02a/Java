@@ -46,3 +46,7 @@
 	States: power status, water level, door status, mode selected.
 	Behaviors: start/stop a wash cycle, Adjust water level, Fill or drain water.
 
+13- Elevator
+	States: door status, direction, current floor, load status.
+	Behaviors: move up/down, open/close door, stop at selected floor.
+
