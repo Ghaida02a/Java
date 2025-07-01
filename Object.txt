@@ -1,3 +1,7 @@
 1- Computer
 	States: running applications, RAM usage, Network connectivity, current power status(on/off). 
 	Behaviors: shut down, sleep, connect to the internet, execute programs.
+
+2- Television
+	States: volume level, power(on/off), channel.
+	Behaviors: play, pause, switch channels, turn on, turn off, adjust volume
