@@ -71,5 +71,9 @@
 	Behaviors: power on/off, switch input source, project image/video, display warning.
 
 19- Garage Door
-	States: door position, lock status, power status
-	Behaviors: open/close door, lock/unlock door, respond to remote control or smart app
+	States: door position, lock status, power status.
+	Behaviors: open/close door, lock/unlock door, respond to remote control or smart app.
+
+20- Camera
+	States: power status, battery level, focus status, mode.
+	Behaviors: turn on/off, zoom in/out, adjust focus, switch between modes, take photos/record video.
