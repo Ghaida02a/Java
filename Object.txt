@@ -65,3 +65,7 @@
 17- Router
 	States: power status, connection status, Wi-Fi signal, device count.
 	Behaviors: reboot/reset, connect to the internet, restrict/block devices.
+
+18- Projector
+	States: power status, brightness level, focus status.
+	Behaviors: power on/off, switch input source, project image/video, display warning.
