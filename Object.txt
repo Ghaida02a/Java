@@ -41,3 +41,8 @@
 11- Speaker
 	States: power status, volume status, battery level, connection status.
 	Behaviors: turn on/off, play, pause, stop, charge battery, mute/unmute.
+
+12- Washing machine
+	States: power status, water level, door status, mode selected.
+	Behaviors: start/stop a wash cycle, Adjust water level, Fill or drain water.
+
