@@ -34,3 +34,6 @@
 	States: internal temperature, door status, cooling mode, light status.
 	Behaviors: cool, freeze, light turns on/off, Display temperature.
 
+10- Fan
+	States: open/closed, speed level.
+	Behaviors: turn on, turn off, rotate.
