@@ -15,5 +15,9 @@
 	Behaviors: Turn on/off, Copy pages, Load or eject paper, connect to a computer/network.
 
 5- Traffic Light
-	States: timer, color
-	Behaviors: change color, Respond to vehicle/pedestrian sensors
+	States: timer, color.
+	Behaviors: change color, Respond to vehicle/pedestrian sensors.
+
+6- Door
+	States: open/closed, locked/unlocked.
+	Behaviors: open door, close, lock, unlock.
