@@ -22,18 +22,16 @@ public class Television {
     }
 	
     public void adjustVolume(int volume) {
-        volumeLevel = volume;
-		if(volume >= 70){
-			volume -= volume;
-			System.out.println("Volume is decreased");
-		}
-		else if(volume < 70 && volume > 45){
-			System.out.println("Volume set to " + volumeLevel);
-		}
-		else{
-			volume += volume;
-			System.out.println("Volume is increased");
-		}
+        if (volume < 0) {
+            volumeLevel = 0; // Minimum volume
+            System.out.println("Volume is set to minimum (0).");
+        } else if (volume > 100) {
+            volumeLevel = 100; // Maximum volume
+            System.out.println("Volume is set to maximum (100).");
+        } else {
+            volumeLevel = volume; // Set to the specified volume
+            System.out.println("Volume set to " + volumeLevel);
+        }
     }
 	
     public void switchChannel(int channel) {
