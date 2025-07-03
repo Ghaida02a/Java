@@ -8,8 +8,8 @@ public class Printer {
     public static void main(String[] args) {
         Printer printer = new Printer();
         
-        // Initialize printer status
         printer.isPowerOn = true;
+        // Initialize printer status
         printer.paperStatus = true;
         printer.inkLevel = true;
         printer.connectStatus = "Network";
