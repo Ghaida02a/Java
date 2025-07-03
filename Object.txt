@@ -40,19 +40,19 @@
 
 11- Speaker
 	States: power status, volume status, battery level, connection status.
-	Behaviors: turn on/off, charge battery, mute/unmute.
+	Behaviors: turn on/off, charge battery, check volume level, check connection.
 
 12- Washing machine
 	States: power status, water level, door status, mode selected.
-	Behaviors: start/stop a wash cycle, Adjust water level, Fill or drain water.
+	Behaviors: power on/off, Adjust water level, door open/close,light/heavy wash.
 
 13- Elevator
-	States: door status, direction, current floor, load status.
+	States: door status, direction, current floor. 
 	Behaviors: move up/down, open/close door, stop at selected floor.
 
 14- Microwave
 	States: power status, door status, set timer, light status.
-	Behaviors: open/close door, set or reset timer, pause/resume heating
+	Behaviors: open/close door, set or reset timer, open/close light
 
 15- Coffee machine
 	States: power status, water level, temperature status, Cleaning status.
