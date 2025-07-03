@@ -55,8 +55,8 @@
 	Behaviors: open/close door, set timer, open/close light
 
 15- Coffee machine
-	States: power status, water level, temperature status, Cleaning status.
-	Behaviors: Turn on/off, perform cleaning cycle, adjust brew strength, adjust cup size
+	States: power status, water level, temperature status.
+	Behaviors: Turn on/off, check water level, adjust temperature 
 
 16- Clock
 	States: time, alarm status, sound status.
