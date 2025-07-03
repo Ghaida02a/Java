@@ -52,7 +52,7 @@
 
 14- Microwave
 	States: power status, door status, set timer, light status.
-	Behaviors: open/close door, set or reset timer, open/close light
+	Behaviors: open/close door, set timer, open/close light
 
 15- Coffee machine
 	States: power status, water level, temperature status, Cleaning status.
