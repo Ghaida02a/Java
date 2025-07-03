@@ -36,7 +36,7 @@
 
 10- Fan
 	States: open/closed, speed level.
-	Behaviors: turn on, turn off, rotate.
+	Behaviors: turn on, turn off, change speed level
 
 11- Speaker
 	States: power status, volume status, battery level, connection status.
