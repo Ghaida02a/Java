@@ -60,20 +60,20 @@
 
 16- Clock
 	States: time, alarm status, sound status.
-	Behaviors: alarm, reset, set/cancel an alarm, Snooze alarm.
+	Behaviors: alarm, set an alarm, Snooze alarm, check sound.
 
 17- Router
-	States: power status, connection status, Wi-Fi signal, device count.
-	Behaviors: reboot/reset, connect to the internet, restrict/block devices.
+	States: power status, connection status, device count.
+	Behaviors: power on/off, connect internet, add device.
 
 18- Projector
 	States: power status, brightness level, focus status.
 	Behaviors: power on/off, switch input source, project image/video, display warning.
 
 19- Garage Door
-	States: door position, lock status, power status.
-	Behaviors: open/close door, lock/unlock door, respond to remote control or smart app.
+	States: door position, lock status.
+	Behaviors: open/close door, lock/unlock door.
 
 20- Camera
-	States: power status, battery level, focus status, mode.
-	Behaviors: turn on/off, zoom in/out, adjust focus, switch between modes, take photos/record video.
+	States: power status, check zoom ,
+	Behaviors: turn on/off, zoom in/out, take photos/record video.
