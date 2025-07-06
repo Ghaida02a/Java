@@ -7,7 +7,7 @@ public class CodeObjects {
 	
     // Main method
     public static void main(String[] args) {
-        CodeObjects computer = new CodeObjects();
+        CodeObjects computer = new computer();
         
         // Example usage
         computer.isPowerOn = true; // Simulate that the computer is powered on
